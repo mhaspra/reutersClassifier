@@ -9,3 +9,7 @@
 /rawFiles
 /result
 /target
+
+.classpath
+.project
+.settings*
