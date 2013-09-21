@@ -9,7 +9,9 @@
 /rawFiles
 /result
 /target
+/counts
 
 .classpath
 .project
 .settings*
+.gitignore~
